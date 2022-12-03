@@ -1,0 +1,11 @@
+.comment-container {
+  display: flex;
+}
+
+.comment-text {
+  margin-bottom: 2%;
+}
+
+.comment-icon {
+  margin-right: 2%;
+}
